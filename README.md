@@ -18,7 +18,7 @@ Povej, kakšna je povprečna moč gesla uporabnikov Partisa. Rezultat pomnoži s
 ## B del (samo starejši)
 1. Naj bo hash funkcija za niz `s` definirana kot vsota `<Ai> s[i]` po modulu `<A3-A4>`. Koliko collisionov ima na prostoru vseh nizov angleške abecede dolžine največ 4? 
 
-2. Dešifriraj besedilo na `http://e6.ijs.si/~jslak/files/lov/<B1>/`. Uporabljena je Vigenerjeva šifra dolžine 5. Rezultat je sintaktično pravilen C++ program. Potreboval ga boš pri reševanju naslednje točke.
+2. Dešifriraj besedilo na `http://e6.ijs.si/~jslak/files/lov/<B1>/`. Vsaka vrstica je zamaknjena za neko (drugo) število, ki se cikla po 5. Rezultat je sintaktično pravilen C++ program. Potreboval ga boš pri reševanju naslednje točke.
 
 3. Na kateri vrstici program iz naloge `B2` povzroči nedefinirano obnašanje?
 
