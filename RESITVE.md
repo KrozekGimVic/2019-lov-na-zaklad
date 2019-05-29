@@ -1,11 +1,13 @@
-A1: 38
-A2: odgovor je rezultat tisoc dvesto stiriintrideset krat pet tisoc sesto oseminsedemdeset --> 7006652
-A3: 2498, pazi na prvo vrstico
-A4: 13, pazi na attribute pri div značkah
-A5: pojdi do učilnice 11
+# Rešitve
 
-B1: 45510056 Hashas vse besede, za n besed znotraj bucketa je `n*(n-1)/2` collisionov. Pazi na prazen string in overflow.
-B2: zamiki so 1, 4, 13, 22, 5. Dobiš program:
+* A1: 38
+* A2: odgovor je rezultat tisoc dvesto stiriintrideset krat pet tisoc sesto oseminsedemdeset --> 7006652
+* A3: 2498, pazi na prvo vrstico
+* A4: 13, pazi na attribute pri div značkah
+* A5: pojdi do učilnice 11
+
+* B1: 45510056 Hashas vse besede, za n besed znotraj bucketa je `n*(n-1)/2` collisionov. Pazi na prazen string in overflow.
+* B2: zamiki so 1, 4, 13, 22, 5. Dobiš program:
 
 ```
 #include <iostream>
@@ -35,7 +37,7 @@ int main() {
 }
 ```
 
-B3: 18. vrstica na zadnji iteraciji dereferencira null pointer.
-B4: 42
-B5: 16634, pošlji npr. post request z `curl` in podatki `{"guess": 14}`
-B6: pojdi do učilnice 44
+* B3: 18. vrstica na zadnji iteraciji dereferencira null pointer.
+* B4: 42
+* B5: 16634, pošlji npr. post request z `curl` in podatki `{"guess": 14}`
+* B6: pojdi do učilnice 44
